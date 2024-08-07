@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyHomeWork\\PracticeDI\\",
+  "WorkspaceRootPath": "F:\\C_Sharp\\PracticeAspNetCore8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|d:\\myhomework\\practicedi\\practicedi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|f:\\c_sharp\\practiceaspnetcore8\\practicedi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|solutionrelative:practicedi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|f:\\c_sharp\\practiceaspnetcore8\\practicedi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|solutionrelative:practicedi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|d:\\myhomework\\practicedi\\practicedi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|f:\\c_sharp\\practiceaspnetcore8\\practicedi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|solutionrelative:practicedi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|d:\\myhomework\\practicedi\\practicedi\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|solutionrelative:practicedi\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|f:\\c_sharp\\practiceaspnetcore8\\practicedi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|solutionrelative:practicedi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|d:\\myhomework\\practicedi\\practicedi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|solutionrelative:practicedi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|f:\\c_sharp\\practiceaspnetcore8\\practicedi\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B6C840-C750-4FED-9CA2-2A133943F0FE}|PracticeDI\\PracticeDI.csproj|solutionrelative:practicedi\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,23 +35,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PracticeDI\\Models\\Product.cs",
+              "ToolTip": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\Models\\Product.cs",
+              "RelativeToolTip": "PracticeDI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:31:14.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyHomeWork\\PracticeDI\\PracticeDI\\Program.cs",
+              "DocumentMoniker": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\Program.cs",
               "RelativeDocumentMoniker": "PracticeDI\\Program.cs",
-              "ToolTip": "D:\\MyHomeWork\\PracticeDI\\PracticeDI\\Program.cs",
+              "ToolTip": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\Program.cs",
               "RelativeToolTip": "PracticeDI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T04:59:44.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\MyHomeWork\\PracticeDI\\PracticeDI\\IRepositories\\IProductRepository.cs",
+              "DocumentMoniker": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\IRepositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "PracticeDI\\IRepositories\\IProductRepository.cs",
-              "ToolTip": "D:\\MyHomeWork\\PracticeDI\\PracticeDI\\IRepositories\\IProductRepository.cs",
+              "ToolTip": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\IRepositories\\IProductRepository.cs",
               "RelativeToolTip": "PracticeDI\\IRepositories\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,9 +75,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\MyHomeWork\\PracticeDI\\PracticeDI\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "PracticeDI\\Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\MyHomeWork\\PracticeDI\\PracticeDI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "PracticeDI\\Repositories\\ProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\MyHomeWork\\PracticeDI\\PracticeDI\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "PracticeDI\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\MyHomeWork\\PracticeDI\\PracticeDI\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\C_Sharp\\PracticeAspNetCore8\\PracticeDI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "PracticeDI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T03:56:12.119Z",
               "EditorCaption": ""
